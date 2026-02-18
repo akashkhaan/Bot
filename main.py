@@ -5,7 +5,7 @@ import time
 from pytube import YouTube
 import os
 
-BOT_TOKEN = "8200935468:AAEUrC0uc7yHbNodiQV09uarsai_fiIio4o"
+BOT_TOKEN = "8200935468:AAHc7xOVyYk35xQlDAURdr0jFxaULtQNGh8"
 API_KEY = "c8WRmO3Z0h79o4Vq2ENbMYtgFKnLrfPA65vkaGdXTlDiCHsI1QkVYeBC8RJXNiqPTQZbImFzEjtKWcaG"
 
 CHANNEL = "@techtrickindia"
